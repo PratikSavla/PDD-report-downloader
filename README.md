@@ -7,3 +7,5 @@ Make sure you have python 3.6 (https://www.python.org/ftp/python/3.6.5/python-3.
 2. Run the pddreport.py file
 3. Enter the registration id and password
 4. Your reports will be generated in the pdf named [Your Reg no]-PDD.pdf
+
+(if you do not want to miss the status of what run.bat or pddreport.py are doing run these files in command prompt)
