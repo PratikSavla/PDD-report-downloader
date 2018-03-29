@@ -1,5 +1,5 @@
 # PDD-report-downloader
-elab report maker for lazy people
+
 Currently it is only for the students registered under "PDD & Mathslab" - "Department of Software Engineering - Kattankulathur"
 
 (only for windows users)
